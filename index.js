@@ -41,7 +41,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'What feature does this project contain',
+        message: 'What features does this project contain?',
         name: 'features',
     },
     {
@@ -51,7 +51,7 @@ const questions = [
     },
     {
         type: 'list',
-        message: 'What kind of license',
+        message: 'What kind of license?',
         choices: ['MIT', 'GPL', 'Unlicensed'],
         name: 'license',
     }
