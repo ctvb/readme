@@ -1,4 +1,4 @@
-# Logo
+# readme
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](undefined)
   undefined
   ## tableofcontents
@@ -10,17 +10,12 @@
 
   ---
   ## puropse
-  The purpose of this project is to make making a logo a quick, easy, and free proccess for whoever may need a logo.
+  The purpose of this project is to make creating readme documents an easy process that insures all the desired information is entered into the document
   ## learn
-  I learned about back-end development and the importance of have the correct inquierer
+  I learned about making questions and making a writeToFile function
   ## stack
   JavaScript
-  ## license
-  
   ## challenges
-  The challenges I faced for this were general difficulty with understanding back-end development
+  Typos and general misunderstanding of back-end
   ## credits
-  Irina Kudosova and Bryan Swarthout
-
-  ## Link to Screencapture
-  www_screencapture_com_2023-4-4_13_07.webm
+  Irina Kudosova
